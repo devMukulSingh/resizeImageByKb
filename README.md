@@ -68,10 +68,3 @@ ResizeImageByKB.biz is a fast, secure, browser-based image optimization toolkit 
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/resizeimagebykb.biz.git
-cd resizeimagebykb.biz
-npm install
-npm run dev
