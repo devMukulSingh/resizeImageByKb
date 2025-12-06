@@ -1,6 +1,7 @@
 # resizeImageByKb
 # ResizeImageByKB.biz — Online Image Compressor, Resizer & Editing Tools
 https://resizeimagebykb.biz/
+
 ResizeImageByKB.biz is a fast, secure, browser-based image optimization toolkit that helps users **compress, resize, crop, rotate, mirror, pixelate, and convert images** — all without uploading files to any server. Everything is processed **client-side**, ensuring privacy and instant results.
 
 ---
