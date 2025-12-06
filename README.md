@@ -4,6 +4,8 @@
 ResizeImageByKB.biz is a fast, secure, browser-based image optimization toolkit that helps users **compress, resize, crop, rotate, mirror, pixelate, and convert images** — all without uploading files to any server. Everything is processed **client-side**, ensuring privacy and instant results.
 
 ---
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/e77e5305-059a-4439-a119-a19150db6b72" />
+<img width="1912" height="860" alt="image" src="https://github.com/user-attachments/assets/ff3270a1-2fde-4a96-a832-f01885f60041" />
 
 ## 🚀 Features
 
